@@ -2,7 +2,6 @@
 - 👀 I’m interested in Football and Codes
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Project Management
-- 📫 How to reach me,Dm
 
 <!---
 Sid-istic/Sid-istic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
