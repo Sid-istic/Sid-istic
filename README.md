@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Siddharth Pratap Singh</h1>
 <p align="center">
-  and i wanted to ask you...
+  and I wanted to ask you...
   👀 Are you a loss function? 😘 Because I want to minimize the distance between you and me.
     <br>
   🚀 Aspiring Machine Learning Engineer | 💡 Passionate about AI & Full Stack Deployment  
