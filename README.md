@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  🚀 And i wanted to ask you
+  🚀 And I wanted to ask you
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@
 </p>
 <p align="center">
   <i>About me?</i><br>
-   - Machine Learning is my middle name 😎 <br> 
-  - Have been Hypertuning parameters since I was 3 ⌨️ (Aura Farmer 🗿)<br>
-- 💡 Passionate about AI & Full Stack Deployment (and drugs – jk 😄)
+    - Food is heaven to me 🤤 <br>
+  - I like watching Anime, Football, and Cricket 🏏 <br>
+- 💡Passionate about AI & Full Stack Deployment (and drugs – jk 😄)
 </p>
 
 <p align="center">
@@ -29,6 +29,13 @@
 </p>
 
 
+---
+### How Good am I at ML ⁉️
+   - Machine Learning is my middle name 😎 <br> 
+  - Have been Hypertuning parameters since I was 3 ⌨️<br>
+  - I once told Dijkstra the shortest path (Aura Farmer 🗿) <br>
+  - I once clustered some rocks with DBSCAN, now they call it Milky Way 🌌
+  - Siddharth Pratap Singh more like Siddharth ***on par with Andrew Ng*** Singh
 ---
 
 ### 🚀 Current Learning Journey (May – August 2025)
