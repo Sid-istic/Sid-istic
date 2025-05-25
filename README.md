@@ -7,11 +7,17 @@
 </h1>
 
 <p align="center">
-  🚀 Aspiring Machine Learning Engineer | 💡 Passionate about AI & Full Stack Deployment (and drugs – jk 😄)
+  🚀 And i wanted to ask you
 </p>
 
 <p align="center">
   <i>“Are you a loss function? Because I want to minimize the distance between you and me.” 😘</i>
+</p>
+<p align="center">
+  <i>About me?</i><br>
+   - Machine Learning is my middle name 😎 <br> 
+  - Have been Hypertuning parameters since I was 3 ⌨️ (Aura Farmer 🗿)<br>
+- 💡 Passionate about AI & Full Stack Deployment (and drugs – jk 😄)
 </p>
 
 <p align="center">
