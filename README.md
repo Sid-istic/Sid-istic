@@ -17,7 +17,7 @@
   <i>About me?</i><br>
     - Food is heaven to me 🤤 <br>
   - I like watching Anime, Football, and Cricket 🏏 <br>
-- 💡Passionate about AI & Full Stack Deployment (and drugs – jk 😄)
+- 💡Passionate about AI & Full Stack Deployment (and memes - no cap😄)
 </p>
 
 <p align="center">
@@ -35,7 +35,6 @@
   - Have been Hypertuning parameters since I was 3 ⌨️<br>
   - I once told Dijkstra the shortest path (Aura Farmer 🗿) <br>
   - I once clustered some rocks with DBSCAN, now they call it Milky Way 🌌
-  - Siddharth Pratap Singh more like Siddharth ***on par with Andrew Ng*** Singh
 ---
 
 ### 🚀 Current Learning Journey (May – August 2025)
@@ -61,7 +60,7 @@
 
 | 🚀 Project | 🔧 Tech | 📝 Description |
 |-----------|--------|----------------|
-| 🧠 **Customer Churn Prediction** | ML, Streamlit, FastAPI | End-to-end churn prediction deployed as a web app |
+| 🧠 [**Customer Churn Prediction**](https://customer-churn-sid.streamlit.app/) | ML, Streamlit, FastAPI | End-to-end churn prediction deployed as a web app |
 | 💬 **AI Interview Feedback Bot** *(coming soon)* | NLP, Prompt Engineering, Streamlit | Get mock interview feedback from an AI trained on behavioral/technical Q&A |
 | 📚 **LLM-Fine-Tuned Assistant** *(coming soon)* | Transformers, Fine-Tuning, LangChain | Chatbot fine-tuned on college syllabus for peer study support |
 
