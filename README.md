@@ -62,7 +62,7 @@
 |-----------|--------|----------------|
 | 🧠 [**Customer Churn Prediction**](https://customer-churn-sid.streamlit.app/) | ML, Streamlit, FastAPI | End-to-end churn prediction deployed as a web app |
 | 💬 [**AI Interview Feedback Bot**](https://ai-interview-bot-sid.streamlit.app/) | NLP, Prompt Engineering, Streamlit | Get mock interview feedback from an AI trained on behavioral/technical Q&A |
-| 📚 **LLM-Fine-Tuned Assistant** *(coming soon)* | Transformers, Fine-Tuning, LangChain | Chatbot fine-tuned on college syllabus for peer study support |
+| 📚 **LLM-Fine-Tuned Assistant for Stock Market** *(coming soon)* | Transformers, Fine-Tuning, LangChain | Chatbot fine-tuned on financial sentiment dataset for peer study support |
 
 🔗 Will be pinned below when live!
 
